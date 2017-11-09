@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827ebFFFEA3CFFD",
+    "servers": [
+      {
+        "server_address": "ttn.renegade.gr",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 39.57038,
+    "ref_longitude": 21.747889,
+    "ref_altitude": 140,
+    "contact_email": "g.koutsouroumpas@renegade.gr",
+    "description": "Renegade Software Technologies Trikala TTN"
+  }
+}
